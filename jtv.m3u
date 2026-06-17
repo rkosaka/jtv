@@ -1,4 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="hdgd01" tvg-name="NHK G" tvg-logo="https://wikimedia.org" group-title="Tokyo Terrestrial",NHK G
-http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
